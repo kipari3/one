@@ -1,0 +1,2 @@
+flex uses only flex-derection and aling-item
+float not job in flex
